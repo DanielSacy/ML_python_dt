@@ -1,2 +1,2 @@
 # ML_python_dt
-ML course in python bt DidaticaTech
+ML course in python by DidaticaTech
